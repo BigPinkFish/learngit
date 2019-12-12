@@ -4,4 +4,4 @@ Git has a muteble index called stage
 Git tracks changes
 Git test
 Git test2
-Creating a new branch is quick
+Creating a new branch is quick AND simple
