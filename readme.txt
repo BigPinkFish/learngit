@@ -5,3 +5,4 @@ Git tracks changes
 Git test
 Git test2
 Creating a new branch is quick AND simple
+test merge
