@@ -4,9 +4,5 @@ Git has a muteble index called stage
 Git tracks changes
 Git test
 Git test2
-<<<<<<< HEAD
-Creating a new branch is quick AND simple
-test merge
-=======
 Creating a new branch is quick AND simple!!!!!
->>>>>>> feature1
+test merge
